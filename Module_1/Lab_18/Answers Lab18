@@ -1,0 +1,72 @@
+1. What are the different genres?
+prime_genre
+Games
+Productivity
+Weather
+Shopping
+Reference
+Finance
+Music
+Utilities
+Travel
+Social Networking
+Sports
+Business
+Photo & Video
+Navigation
+Entertainment
+Education
+Lifestyle
+Food & Drink
+News
+Health & Fitness
+Medical
+Book
+
+2. Which is the genre with the most apps rated?
+Social
+
+3. Which is the genre with most apps?
+Games
+
+4. Which is the one with least?
+Medical
+
+5. Find the top 10 apps most rated.
+Facebook
+Pandora - Music & Radio
+Pinterest
+Bible
+Angry Birds
+Fruit Ninja Classic
+Solitaire
+PAC-MAN
+Calorie Counter & Diet Tracker by MyFitnessPal
+The Weather Channel: Forecast, Radar & Alerts
+
+6. Find the top 10 apps best rated by users.
+J&J Official 7 Minute Workout
+Fragment's Note
+Dragon Island Blue
+Fieldrunners 2
+Sworkit - Custom Workouts for Exercise & Fitness
+Pumped: BMX
+Headspace
+Timeshare+
+Infect Them All : Vampires
+Daily Audio Bible App
+
+7. Take a look at the data you retrieved in question 5. Give some insights.
+Most of the apps are free or very little costs, and are social-media or games.
+
+8. Take a look at the data you retrieved in question 6. Give some insights.
+Most of these apps are Health&Fitness and games related. 7 out of 10 requires a fee to enjoy the service.
+
+9. Now compare the data from questions 5 and 6. What do you see?
+Free apps and especially social-media related ones have the most ratings while paying apps in general receive higher user rating.
+
+10. How could you take the top 3 regarding both user ratings and number of votes?
+I selected track_name and used rating_count_tot to order by desc, plus one condition where user_rating = 5 which is the highest. (tehn limit 3 to return excatly 3 results)
+
+11. Do people care about the price of an app? Do some queries, comment why are you doing them and the results you retrieve. What is your conclusion?
+From the queries, people seem to be quite sensitive to prices especially for social media and gaming purposes. However, for health&Fitness purposes, people seem to be more willing to pay for the apps.
