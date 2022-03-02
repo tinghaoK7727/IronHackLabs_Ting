@@ -1,8 +1,8 @@
-SELECT * FROM apple.applelab;
+SELECT * FROM apple.apple;
 select distinct prime_genre from apple;
-select max(prime_genre) from apple where rating_count_ver is not null;
-select max(prime_genre) from apple where track_name is not null;
-select min(prime_genre) from apple where track_name is not null;
+select prime_genre, rating_count_tot from apple group by prime_genre, rating_count_tot order by rating_count_tot desc;
+select prime_genre, count(*) from apple group by prime_genre order by count(*) desc;
+select prime_genre, count(*) from apple group by prime_genre order by count(*);
 select track_name, rating_count_tot, prime_genre, price from apple order by rating_count_tot desc limit 10;
 select track_name, user_rating, prime_genre, price from apple order by user_rating desc limit 10;
 select track_name, rating_count_tot, user_rating, prime_genre, price from apple where user_rating = 5 order by rating_count_tot desc limit 3;
