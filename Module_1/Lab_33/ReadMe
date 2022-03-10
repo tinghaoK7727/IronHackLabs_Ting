@@ -1,0 +1,16 @@
+Steps for Data cleaning:
+
+Step 1:
+Check for outliers in each column with Matplot and note them down for later
+
+Step 2:
+Depend on the types off outliers, either assign values or delete/drop them to have a consistent dataset
+
+Actions on each column:
+Department: redundant information, drop this column from the dataset
+BirthYear: 2 NA and one potentially error from input, correct the data
+Amount: one outlier (Client 34997 with extreme amount, drop this row)
+Profession: fill the NA with info from the same client ID
+
+Step 3:
+One last check of the dataset, save to CSV if everything seems ok.
