@@ -1,0 +1,5 @@
+Comments on the code:
+- Overall this team's code is relatively straightforward and quite easy to understand.
+- However, I have spotted some typos and redundant code elements such as one variable k=0, and an empty list lif6 = []
+- I have removed these two redundant codes and added a print(l6) inside the loop so that it will be clearer to see the roll-dice results at every stage.
+- Other than that, their code is quite clean and neatly formulated.
