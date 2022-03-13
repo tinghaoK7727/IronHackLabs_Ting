@@ -1,0 +1,5 @@
+Result summary from the following methods:
+
+- Get dummies method:
+Probably the easiest and most straightforward method which can be used for multiple columns at the same time and returns a dataframe which is also clear to understand.
+
