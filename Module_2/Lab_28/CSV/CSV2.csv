@@ -1,0 +1,145 @@
+emp_no,dept_no,from_date,gender,dept_name
+110022,d001,1995-12-30,M,Marketing
+110039,d001,1997-04-09,M,Marketing
+110040,d001,1991-12-31,M,Marketing
+110041,d001,1993-08-02,F,Marketing
+110042,d001,1993-12-30,M,Marketing
+110043,d001,1992-11-20,F,Marketing
+110044,d001,1995-10-13,F,Marketing
+110045,d001,1995-02-04,M,Marketing
+110046,d001,1996-12-29,F,Marketing
+110047,d001,1993-01-06,F,Marketing
+110048,d001,1994-08-10,M,Marketing
+110049,d001,1991-06-09,M,Marketing
+110050,d001,1998-05-29,F,Marketing
+110051,d001,1999-05-29,M,Marketing
+110085,d002,1991-12-31,M,Finance
+110114,d002,1991-01-13,F,Finance
+110115,d002,1993-12-30,F,Finance
+110116,d002,1995-08-02,F,Finance
+110117,d002,1995-12-30,M,Finance
+110118,d002,1994-11-20,M,Finance
+110119,d002,1997-10-12,M,Finance
+110120,d002,1997-02-03,M,Finance
+110121,d002,1998-12-29,M,Finance
+110122,d002,1995-01-06,F,Finance
+110123,d002,1996-08-09,M,Finance
+110124,d002,1993-06-08,M,Finance
+110125,d002,1993-12-30,M,Finance
+110126,d002,1999-05-29,M,Finance
+110127,d002,2000-05-29,M,Finance
+110183,d003,1990-12-31,F,"Human Resources"
+110228,d003,1992-08-02,F,"Human Resources"
+110229,d003,1994-11-25,M,"Human Resources"
+110230,d003,1993-10-16,M,"Human Resources"
+110231,d003,1996-09-07,M,"Human Resources"
+110232,d003,1995-12-31,M,"Human Resources"
+110233,d003,1997-11-24,M,"Human Resources"
+110234,d003,1993-12-02,F,"Human Resources"
+110235,d003,1995-07-06,M,"Human Resources"
+110236,d003,1992-05-04,F,"Human Resources"
+110237,d003,1992-10-01,M,"Human Resources"
+110238,d003,1994-05-15,F,"Human Resources"
+110239,d003,1997-05-29,M,"Human Resources"
+110240,d003,2000-05-29,F,"Human Resources"
+110303,d004,1992-12-30,F,Production
+110344,d004,1991-11-21,F,Production
+110386,d004,1994-10-13,M,Production
+110420,d004,1994-02-04,M,Production
+110421,d004,1991-01-30,M,Production
+110422,d004,1990-03-11,M,Production
+110423,d004,1991-03-23,M,Production
+110424,d004,1990-07-15,M,Production
+110425,d004,1992-12-30,M,Production
+110426,d004,1993-04-25,M,Production
+110427,d004,1993-03-30,M,Production
+110428,d004,1996-02-20,M,Production
+110429,d004,1995-06-14,F,Production
+110430,d004,1998-05-29,M,Production
+110511,d005,1991-12-31,M,Development
+110567,d005,1992-04-25,F,Development
+110568,d005,1990-01-05,M,Development
+110569,d005,1994-10-03,M,Development
+110570,d005,1997-04-07,F,Development
+110571,d005,1999-02-28,M,Development
+110572,d005,1993-02-20,M,Development
+110573,d005,1992-06-14,M,Development
+110574,d005,1994-11-30,F,Development
+110575,d005,1995-03-26,F,Development
+110576,d005,1995-02-28,M,Development
+110577,d005,1992-01-29,F,Development
+110578,d005,1999-03-12,F,Development
+110579,d005,1998-05-29,F,Development
+110725,d006,1995-12-30,F,"Quality Management"
+110765,d006,1992-01-07,F,"Quality Management"
+110800,d006,1993-08-10,F,"Quality Management"
+110854,d006,1990-06-09,M,"Quality Management"
+110855,d006,1994-05-14,M,"Quality Management"
+110856,d006,1993-05-12,F,"Quality Management"
+110857,d006,1991-03-04,M,"Quality Management"
+110858,d006,1990-06-27,M,"Quality Management"
+110859,d006,1996-12-29,F,"Quality Management"
+110860,d006,1993-01-06,F,"Quality Management"
+110861,d006,1994-08-10,F,"Quality Management"
+110862,d006,1991-06-09,M,"Quality Management"
+110863,d006,1995-05-14,M,"Quality Management"
+110864,d006,1994-05-12,M,"Quality Management"
+110865,d006,1992-03-03,F,"Quality Management"
+110866,d006,1990-06-18,M,"Quality Management"
+110867,d006,1993-05-17,M,"Quality Management"
+110868,d006,1994-12-30,M,"Quality Management"
+110869,d006,1998-05-29,M,"Quality Management"
+111035,d007,1992-12-30,M,Sales
+111133,d007,1991-12-29,M,Sales
+111134,d007,1992-06-13,M,Sales
+111135,d007,1994-01-14,M,Sales
+111136,d007,1994-06-13,M,Sales
+111137,d007,1993-05-04,M,Sales
+111138,d007,1996-03-26,M,Sales
+111139,d007,1995-07-19,M,Sales
+111140,d007,1997-06-12,F,Sales
+111141,d007,1993-06-20,F,Sales
+111142,d007,1995-01-22,M,Sales
+111143,d007,1991-11-21,F,Sales
+111144,d007,1992-06-13,M,Sales
+111145,d007,1990-01-05,M,Sales
+111146,d007,1991-01-15,M,Sales
+111147,d007,1995-10-06,F,Sales
+111148,d007,1991-10-14,M,Sales
+111149,d007,1999-05-29,M,Sales
+111150,d007,2000-05-29,F,Sales
+111400,d008,1990-03-11,M,Research
+111534,d008,1991-01-30,F,Research
+111535,d008,1996-06-12,F,Research
+111536,d008,1997-09-21,M,Research
+111537,d008,1992-06-13,M,Research
+111538,d008,1994-01-14,M,Research
+111539,d008,1994-06-13,F,Research
+111540,d008,1993-05-04,F,Research
+111541,d008,1996-03-26,M,Research
+111542,d008,1995-07-19,M,Research
+111543,d008,1997-06-12,M,Research
+111544,d008,1993-06-20,M,Research
+111545,d008,1999-05-29,F,Research
+111692,d009,1991-05-20,F,"Customer Service"
+111784,d009,1993-02-10,F,"Customer Service"
+111877,d009,1995-08-16,F,"Customer Service"
+111939,d009,1997-07-08,M,"Customer Service"
+111940,d009,1996-09-20,M,"Customer Service"
+111941,d009,1992-09-28,M,"Customer Service"
+111942,d009,1994-05-02,F,"Customer Service"
+111943,d009,1991-03-01,M,"Customer Service"
+111944,d009,1995-02-03,F,"Customer Service"
+111945,d009,1994-02-01,F,"Customer Service"
+111946,d009,1995-02-01,M,"Customer Service"
+111947,d009,1996-02-01,M,"Customer Service"
+111948,d009,1997-01-31,F,"Customer Service"
+111949,d009,1992-01-22,M,"Customer Service"
+111950,d009,1993-08-25,F,"Customer Service"
+111951,d009,1990-06-24,F,"Customer Service"
+111952,d009,1994-05-29,M,"Customer Service"
+112000,d009,1998-05-29,M,"Customer Service"
+112001,d009,1999-05-29,F,"Customer Service"
+112002,d009,1999-05-29,F,"Customer Service"
+112003,d009,2000-05-29,F,"Customer Service"
+112004,d009,2000-05-29,M,"Customer Service"
