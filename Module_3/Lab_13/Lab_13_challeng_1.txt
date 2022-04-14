@@ -1,0 +1,3 @@
+Google Colab link; https://colab.research.google.com/drive/1dzuYhu2rUyiiJYnw1C9dSXuk4sQwUhcy#scrollTo=TlIHt4Xfmbai
+
+# Keras and TensorFlow do not run on my Mac so I used Googlecolab
